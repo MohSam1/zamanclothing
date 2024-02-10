@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://userplatform.github.io/simplewebsite/mypost/</loc>
-    <lastmod>2023-10-30T18:41:50+00:00</lastmod>
+    <loc>https://mohsam1.github.io/categories/</loc>
   </url><url>
-    <loc>https://userplatform.github.io/simplewebsite/categories/</loc>
+    <loc>https://mohsam1.github.io/</loc>
   </url><url>
-    <loc>https://userplatform.github.io/simplewebsite/</loc>
-  </url><url>
-    <loc>https://userplatform.github.io/simplewebsite/tags/</loc>
+    <loc>https://mohsam1.github.io/tags/</loc>
   </url>
 </urlset>
