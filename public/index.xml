@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Webpage</title>
+    <link>https://userplatform.github.io/simplewebsite/</link>
+    <description>Recent content on My Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://userplatform.github.io/simplewebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://userplatform.github.io/simplewebsite/mypost/</link>
+      <pubDate>Mon, 30 Oct 2023 18:41:50 +0000</pubDate>
+      <guid>https://userplatform.github.io/simplewebsite/mypost/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
